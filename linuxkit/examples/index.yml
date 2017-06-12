@@ -1,3 +1,4 @@
 # An index file.
 
 sshd : sshd/index.yml
+demo-docker: examples/docker/index.yml
